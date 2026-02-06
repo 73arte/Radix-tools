@@ -170,7 +170,7 @@ Payment asset: **xUSDC**
 
 **Hardcoded, immutable allocation:**
 
-- **1 %** → fixed creator royalty address `"radix:account_rdx1294c3e2ufs2cfs59cjtlvu2u0npp6atm88xwauewpxnqjadtrf52r2"`  
+- **1 %** → fixed creator royalty address `"radix:account_rdx12xevhuckv56t8daquvmwahwreqmrnfur0ayxcs9p47vxjf4je2rnfy"`  
 - **70–80 %** → node operator reward pool (performance-weighted, capped per node)  
 - **Surplus** → publicly auditable auxiliary vault for open-source R&D and humanitarian purposes  
 
