@@ -148,7 +148,7 @@ If your implementation generates revenue
 you agree to pay **5% royalties** on net revenue to the author (73arte),  
 paid in XRD to the following dedicated royalties wallet address:
 ```
-radix:account_rdx12xd8ll8u8nu5tlxk5v2t7rns6jga9403xq26fjt89yjdqzmw03zw99
+account_rdx129fp4pq235uqedczchsluk3363q45x0u9s7f9h7tsw56pglpju6vue
 ```
 
 This is a moral & community convention — not enforceable by smart contract,  
