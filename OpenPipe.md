@@ -7,6 +7,8 @@
 A neutral, open-source protocol  
 to condition access to critical financial interfaces  
 
+**Author**: 73arte
+
 Version 1.0 – February 2026  
 Anonymous Technical Proposal  
 
