@@ -195,7 +195,7 @@ ZKP verification and policy enforcement occur in upstream systems.
 // SPDX-License-Identifier: MIT
 use scrypto::prelude::*;
 
-const CREATOR_ROYALTY_ADDRESS: &str = "radix:account_rdx1294c3e2ufs2cfs59cjtlvu2u0npp6atm88xwauewpxnqjadtrf52r2";
+const CREATOR_ROYALTY_ADDRESS: &str = "radix:account_rdx12xevhuckv56t8daquvmwahwreqmrnfur0ayxcs9p47vxjf4je2rnfy";
 
 #[blueprint]
 mod openpipe_filter {
